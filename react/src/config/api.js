@@ -1,3 +1,3 @@
-const productoURL = 'http://localhost/backend_react/controller/productoController.php';
+const productoURL = 'http://localhost/productos/backend/controller/productoController.php';
 
 export {productoURL};

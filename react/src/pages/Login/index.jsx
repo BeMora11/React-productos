@@ -20,7 +20,7 @@ const Login = () => {
               </div>
             </div>
             <div className="d-grid gap-2 col-6 mx-auto">
-              <Link to="/home" className="btn btn-sm border border-dark mt-2" type="submit">Iniciar sesión</Link>
+              <Link to="/home" className="btn btn-sm btn-danger mt-2" type="submit">Iniciar sesión</Link>
             </div>
           </form>
         </div>
