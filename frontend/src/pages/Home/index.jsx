@@ -3,6 +3,7 @@ import Navbar from '../../components/Navbar';
 import { productoURL } from '../../config/api';
 import axios from 'axios';
 import CardProducto from '../../components/CardProducto';
+import auth from '../../config/auth';
 
 const Home = () => {
 
